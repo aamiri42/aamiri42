@@ -8,7 +8,7 @@ Open to Data Science / ML Engineering roles.
 
 ## Projects
 
-### [Hikeability](https://hike-ability.com) — Trail Conditions Platform
+### [Hikeability](https://hike-ability.com) — Trail Conditions Platform ([repo](https://github.com/cyab05/hikeability))
 
 An end-to-end MLOps pipeline classifying **3,500+ Washington hiking trails** daily as hikeable/modest/unhikeable, prompting NVIDIA Nemotron 49B with trip reports, weather forecasts, and closure alerts — **98% accuracy** on a human-validated evaluation set.
 
