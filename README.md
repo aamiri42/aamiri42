@@ -12,6 +12,8 @@ Open to Data Science & AI / ML Engineering roles.
 
 An end-to-end MLOps pipeline classifying **3,500+ Washington hiking trails** daily as hikeable/modest/unhikeable, prompting NVIDIA Nemotron 49B with trip reports, weather forecasts, and closure alerts — **98% accuracy** on a human-validated evaluation set.
 
+**How it works:** Nightly scraper (WTA trip reports + Open-Meteo weather) → LLM inference (NVIDIA Nemotron 49B classifies each trail as Hikeable / Modest / Unhikeable) → results written to GeoJSON → served on a live Mapbox map with search, per-trail stats, and a color-coded legend.
+
 - Nightly data pipeline via GitHub Actions and Docker, scraping WTA trip reports and Open-Meteo weather data, running LLM inference on a GCP VM, and serving predictions to a live Mapbox web app with zero manual intervention
 - Evaluated 6 model configurations (2 model sizes × 3 prompting strategies) tracked in MLflow, selecting one-shot prompting as the optimal strategy balancing 100% accuracy and minimal token cost over few-shot alternatives
 
