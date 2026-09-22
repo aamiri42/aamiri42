@@ -4,7 +4,7 @@ Data Scientist with 2+ years of experience building end-to-end ML systems — fr
 
 Currently a Data Scientist at Hedwig Xpress, and previously built clinical NLP/LLM pipelines at UCSF Radiation Oncology. M.S. in Data Science and Artificial Intelligence from the University of San Francisco, B.S. in Statistical Data Science from UC Davis.
 
-Open to Data Science / ML Engineering roles.
+Open to Data Science & AI / ML Engineering roles.
 
 ## Projects
 
