@@ -19,6 +19,8 @@ An end-to-end MLOps pipeline classifying **3,500+ Washington hiking trails** dai
 
 `Python` `NVIDIA Nemotron 49B` `GitHub Actions` `Docker` `GCP` `Mapbox GL JS` `MLflow`
 
+<img width="801" height="434" alt="Screenshot 2026-09-22 at 2 53 31 PM" src="https://github.com/user-attachments/assets/9c3bbf58-de74-4324-9bda-0e63d512eae1" />
+
 ### Fraud Detection Pipeline
 
 A fraud detection pipeline ingesting **6.3M+ transactions** with 8 engineered features, addressing a 0.13% fraud-rate class imbalance via undersampling.
