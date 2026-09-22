@@ -35,7 +35,9 @@ Supporting cancer survival prediction research, this pipeline compresses 100K+ t
 ## Tech
 
 **Programming** — Python, SQL, NoSQL, R
+
 **ML & Statistics** — Regression, Classification, Decision Trees, Random Forest, XGBoost, Deep Learning, NLP, LLMs, LLM Fine-Tuning (LoRA), Contrastive Learning, Embedding Models, Prompt Engineering, Statistical Modeling, A/B Testing, Causal Inference, ETL and Data Pipelines, Data Visualization
+
 **Tools** — PyTorch, TensorFlow, Scikit-Learn, HuggingFace Transformers, vLLM, PySpark, Spark, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Apache Airflow, GitHub Actions, MLflow, MongoDB, Ollama, Kubernetes, Terraform, Git/GitHub, Google Cloud (Vertex AI, Cloud Run, Dataproc, GCS), Docker, Tableau
 
 ## Connect
