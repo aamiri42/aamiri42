@@ -4,6 +4,8 @@ Data Scientist with 2+ years of experience building end-to-end ML systems — fr
 
 Currently a Data Scientist at Hedwig Xpress, and previously built clinical NLP/LLM pipelines at UCSF Radiation Oncology. M.S. in Data Science and Artificial Intelligence from the University of San Francisco, B.S. in Statistical Data Science from UC Davis.
 
+Open to Data Science / ML Engineering roles.
+
 ## Projects
 
 ### [Hikeability](https://hike-ability.com) — Trail Conditions Platform
@@ -26,16 +28,16 @@ A fraud detection pipeline ingesting **6.3M+ transactions** with 8 engineered fe
 
 ### Clinical LLM Summarization & Matching — UCSF Radiation Oncology
 
-Research pipeline compressing 100K+ token clinical notes to 500 tokens (80% reduction) via an LLM summarization pipeline (Qwen2.5/Ollama), enabling BioClinicalBERT ingestion across 7 glioma follow-up timepoints. Processed 64K MRI studies and 26K pathology reports across 12K patients to produce 50K MRI–pathology training pairs. Fine-tuned encoder LLMs via LoRA and contrastive learning (MNRL), improving matched-pair cosine similarity from 0.63 to 0.79 across 70K patient-timepoint pairs. *(Clinical work, code private.)*
+Supporting cancer survival prediction research, this pipeline compresses 100K+ token clinical notes to 500 tokens (80% reduction) via an LLM summarization pipeline (Qwen2.5/Ollama), enabling BioClinicalBERT ingestion across 7 glioma follow-up timepoints. Processed 64K MRI studies and 26K pathology reports across 12K patients to produce 50K MRI–pathology training pairs. Fine-tuned encoder LLMs via LoRA and contrastive learning (MNRL), improving matched-pair cosine similarity from 0.63 to 0.79 across 70K patient-timepoint pairs. *(Clinical work, code private.)*
 
 `Python` `LoRA` `Contrastive Learning` `BioClinicalBERT` `Ollama`
 
 ## Tech
 
-**Programming** — Python, SQL, NoSQL, R, C++
+**Programming** — Python, SQL, NoSQL, R
 **ML & Statistics** — Regression, Classification, Decision Trees, Random Forest, XGBoost, Deep Learning, NLP, LLMs, LLM Fine-Tuning (LoRA), Contrastive Learning, Embedding Models, Prompt Engineering, Statistical Modeling, A/B Testing, Causal Inference, ETL and Data Pipelines, Data Visualization
-**Tools** — PyTorch, TensorFlow, Scikit-Learn, HuggingFace Transformers, vLLM, PySpark, Spark, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Apache Airflow, GitHub Actions, MLflow, MongoDB, Ollama, Kubernetes, Terraform, Git/GitHub, Google Cloud (Vertex AI, Cloud Run, Dataproc, GCS), Docker, Tableau, AWS, Snowflake
+**Tools** — PyTorch, TensorFlow, Scikit-Learn, HuggingFace Transformers, vLLM, PySpark, Spark, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Apache Airflow, GitHub Actions, MLflow, MongoDB, Ollama, Kubernetes, Terraform, Git/GitHub, Google Cloud (Vertex AI, Cloud Run, Dataproc, GCS), Docker, Tableau
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/alex-amiri)
+[LinkedIn](https://linkedin.com/in/alex-amiri) · [alexamiri4242@gmail.com](mailto:alexamiri4242@gmail.com)
