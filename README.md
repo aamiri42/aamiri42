@@ -1,4 +1,4 @@
-# Hi, I'm Alex Amiri
+# Hi, I'm Alexander Amiri
 
 Data Scientist with 2+ years of experience building end-to-end ML systems — from data pipelines to production — including LLM pipelines for clinical data at UCSF, a live MLOps platform serving daily predictions, and fraud detection across 6.3M+ transactions.
 
@@ -38,4 +38,4 @@ Research pipeline compressing 100K+ token clinical notes to 500 tokens (80% redu
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/alex-amiri) · [GitHub](https://github.com/aamiri42)
+[LinkedIn](https://linkedin.com/in/alex-amiri)
