@@ -8,7 +8,7 @@ Open to Data Science & AI / ML Engineering roles.
 
 ## Projects
 
-Geospatial Classification and Model Deployment
+### Geospatial Classification and Model Deployment
 
 ### [Hikeability](https://www.hike-ability.com/) — Trail Conditions Platform ([repo](https://github.com/cyab05/hikeability))
 
