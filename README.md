@@ -8,6 +8,8 @@ Open to Data Science & AI / ML Engineering roles.
 
 ## Projects
 
+Geospatial Classification and Model Deployment
+
 ### [Hikeability](https://www.hike-ability.com/) — Trail Conditions Platform ([repo](https://github.com/cyab05/hikeability))
 
 An end-to-end MLOps pipeline classifying **3,500+ Washington hiking trails** daily as hikeable/modest/unhikeable, prompting NVIDIA Nemotron 49B with trip reports, weather forecasts, and closure alerts — **98% accuracy** on a human-validated evaluation set.
